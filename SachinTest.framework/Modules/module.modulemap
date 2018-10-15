@@ -1,0 +1,6 @@
+framework module SachinTest {
+  umbrella header "SachinTest.h"
+
+  export *
+  module * { export * }
+}
