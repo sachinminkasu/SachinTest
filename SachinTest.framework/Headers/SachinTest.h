@@ -2,7 +2,7 @@
 //  SachinTest.h
 //  SachinTest
 //
-//  Created by Sachin Selvaraj on 10/15/18.
+//  Created by Sachin Selvaraj on 10/16/18.
 //  Copyright © 2018 sachin. All rights reserved.
 //
 
@@ -16,6 +16,4 @@ FOUNDATION_EXPORT const unsigned char SachinTestVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <SachinTest/PublicHeader.h>
 
-#import <SachinTest/Test.h>
-
-
+#import <SachinTest/SachinLog.h>
